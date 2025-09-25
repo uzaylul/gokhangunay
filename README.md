@@ -25,7 +25,7 @@
 
 ## Canlı Önizleme
 
-[uzaylul.github.io/gokhangunay](https://uzaylul.github.io/gokhangunay) *(GitHub Pages üzerinde yayınlandığında aktif olacaktır)*
+[uzaylul.github.io/gokhangunay](https://uzaylul.github.io/gokhangunay)
 
 ## İletişim
 
